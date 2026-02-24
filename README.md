@@ -29,6 +29,7 @@
 - [High-Level Design (HLD)](#-high-level-design-hld)
 - [Low-Level Design (LLD)](#-low-level-design-lld)
 - [Project Structure](#-project-structure)
+- [Project Showcase](#-project-showcase)
 - [Dashboard Pages](#-dashboard-pages)
 - [API Reference](#-api-reference)
 - [Step-by-Step Setup Guide](#-step-by-step-setup-guide)
@@ -402,7 +403,55 @@ observability-framework-AIMLOPS/
 
 ---
 
-## 📡 API Reference
+## �️ Project Showcase
+
+<div align="center">
+
+### Platform Overview & Live Analytics
+![Platform Overview](outcome.png)
+*Real-time KPI monitoring with dark glassmorphic UI.*
+
+<br/>
+
+### Ingestion Hub
+![Ingestion Hub](outcome1.png)
+*Multi-vendor connector status and throughput visualization.*
+
+<br/>
+
+### Intelligence Layer & Topology
+![Intelligence Layer](outcome2.png)
+*Interactive D3.js infrastructure topology and anomaly detection.*
+
+<br/>
+
+### Alerts & Incidents
+![Alerts & Incidents](outcome3.png)
+*Smart incident management with severity-based filtering.*
+
+<br/>
+
+### MLOps Lifecycle
+![MLOps Lifecycle](outcome4.png)
+*Full model registry, accuracy monitoring, and retraining queues.*
+
+<br/>
+
+### Routing & Pipelines
+![Routing & Pipelines](outcome5.png)
+*Intelligent event orchestration and priority-based routing.*
+
+<br/>
+
+### Platform Settings
+![Settings](outcome6.png)
+*RBAC, enterprise configurations, and connector management.*
+
+</div>
+
+---
+
+## �📡 API Reference
 
 ### REST Endpoints
 
